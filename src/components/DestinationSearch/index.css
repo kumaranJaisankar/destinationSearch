@@ -1,0 +1,25 @@
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.container {
+  font-family: 'Roboto';
+  text-align: center;
+}
+.heading {
+  font-size: 3rem;
+  text-align: center;
+}
+input {
+  height: 30px;
+  width: 400px;
+  border: 2px solid blue;
+  border-radius: 8px;
+}
+.input-alig {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
